@@ -3,9 +3,9 @@ This is a simple project to predict board game ratings based on the data of over
 
 Required Libraries :
 
-Matplotlib
-Seaborn
-sklearn
+Matplotlib <br>
+Seaborn <br>
+sklearn <br>
 pandas
 
 This model will output the rating of a particular game (out of 10) based on the past data on which it was trained. 
